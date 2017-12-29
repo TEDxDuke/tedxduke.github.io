@@ -1,2 +1,2 @@
-# tedxduke.github.io
-Website for TEDxDuke
+# TEDxDuke
+TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world. Much like the TED conference, TEDxDuke is a program that draws some of Duke University’s and Durham’s most curious, creative, and progressive thinkers together for intellectual discussion. The only difference—it’s entirely student-run! The event is inspired by the visionaries that come to share their unique stories and valuable perspectives. It serves as a unique platform to establish positive dialogue, create unexpected connections, and inspire powerful momentum.
