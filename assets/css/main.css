@@ -3006,7 +3006,7 @@
 	#banner {
 		padding: 9em 0 7em 0 ;
 		background-color: #423e3a;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/2021_banner.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -3014,19 +3014,40 @@
 	}
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6, #banner strong, #banner b {
-			color: #ffffff;
+			/*color: #ffffff;*/
+			color: black;
+			text-shadow:
+			-1px -1px 0 #ffffff,
+			1px -1px 0 #ffffff,
+			-1px 1px 0 #ffffff,
+			1px 1px 0 #ffffff; 
 		}
 
 		#banner header p {
 			color: #ffffff;
+			font-weight: bold;
+			color: black;
+			text-shadow:
+			-1px -1px 0 #ffffff,
+			1px -1px 0 #ffffff,
+			-1px 1px 0 #ffffff,
+			1px 1px 0 #ffffff; 
+
 		}
 
 		#banner input[type="submit"],
 		#banner input[type="reset"],
 		#banner input[type="button"],
 		#banner .button {
-			border-color: #ffffff;
-			color: #ffffff !important;
+			/*border-color: #ffffff;*/
+			/*color: #ffffff !important;*/
+			border-color: #000;
+			color: black !important;
+			text-shadow:
+			-1px -1px 0 #ffffff,
+			1px -1px 0 #ffffff,
+			-1px 1px 0 #ffffff,
+			1px 1px 0 #ffffff; 
 		}
 
 			#banner input[type="submit"]:hover,
