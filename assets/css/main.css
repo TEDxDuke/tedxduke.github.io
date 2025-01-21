@@ -1616,7 +1616,7 @@
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -2138,6 +2138,9 @@
 
 			.image.style2 img {
 				border-radius: 100%;
+				width: 150px;
+				height: 150px;
+				object-fit: cover;
 			}
 
 /* List */
